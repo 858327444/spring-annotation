@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * .
+ * ..
  * Program Name: spring-annotation
  * Created by yanlp on 2022-03-19
  *
